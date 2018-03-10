@@ -1,0 +1,39 @@
+{
+  "basics":{
+    "photo":"img girl.jpg.jpg",
+    "name":"yaswitha",
+    "phone":"9491724019",
+    "email":"chelikaniyaswitha@gmail.com",
+    "Address":"(d/o) srinivasarao.eluru,west godavari dist,ap"
+  },
+  "education" :[{
+    "course":"btech(cse)",
+    "institute":"sir crr engg",
+    "data":["2015-2019","80%"]
+  },
+  {
+    "course":"inter(mpc)",
+    "institute":"sri chaitanya",
+    "data":["2013-2015","95%"]
+  },
+  {
+    "course":"ssc",
+    "institute":"bhashyam",
+    "data":["2012-2013","97%"]
+  }
+],
+"skills":[{
+  "name":"languages",
+  "data":["c++","c","java"]
+},
+{
+"name":"web technologies",
+"data":["html","css"]
+},
+{
+  "name":"os",
+  "data":["windows","linux"]
+}
+
+  ]
+}
